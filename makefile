@@ -1,3 +1,4 @@
+ 
 test: main.py matrix.py mdl.py display.py draw.py gmath.py
 	python main.py final.mdl
 
